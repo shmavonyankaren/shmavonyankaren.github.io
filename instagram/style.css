@@ -1,0 +1,44 @@
+#instagramLabel{
+    padding:0 0 0 55px;
+    font-weight: normal;
+    font-family: 'Lobster', cursive;
+}
+
+#parent{
+    border: 1px solid rgb(211, 208, 208);
+    margin: 100px 508px 20px 492px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+form{
+    margin: 0 0 50px 0;
+    padding: 40px;
+}
+
+input{
+    margin: 3px;
+    width: 250px;
+    height: 30px;
+}
+
+button{
+    background: rgb(3, 174, 197);
+    color: white;
+    border-radius: 5px;
+    border:0 solid blue;
+    margin: 3px;
+    width: 250px;
+    height: 30px;
+}
+
+#or{
+    padding:0 0 0 85px;
+    font-size: 20px;
+}
+
+a{
+    padding:0 0 0 85px;
+    font-size: 15px;
+}
